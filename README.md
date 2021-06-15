@@ -2,6 +2,8 @@
 Bare minimun FastAPI to display webcam stream in browser.
 
 $pip install fastapi
+
+
 $pip install uvicorn
 
 python myapp.py
